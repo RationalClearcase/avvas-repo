@@ -1,4 +1,4 @@
-class PalindromeExample{  
+class PalindromeExample{ 
 2. public static void main(String args[]){  
 3.  int r,sum=0,temp;    
 4.  int n=454;//It is the number variable to be checked for palindrome  
